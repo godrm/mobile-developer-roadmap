@@ -11,6 +11,9 @@ Roadmap to becoming a mobile developer in 2019.
 ## iOS Roadmap
 ![](https://raw.githubusercontent.com/godrm/mobile-developer-roadmap/master/Images/iOS_roadmap_v1.0.png)
 
+## Swift Roadmap
+![](https://raw.githubusercontent.com/godrm/mobile-developer-roadmap/master/Images/Swift_programming_roadmap_v0.9.png)
+
 ## Mockup Files
 The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/Balsamiq-files` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it.
 
